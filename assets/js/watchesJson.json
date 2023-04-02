@@ -1,0 +1,85 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "name": "ChronoMax",
+      "description": "A stylish and reliable chronograph watch with a stainless steel case and bracelet.",
+      "display_type": "Analog",
+      "water_resistance_level": "50 meters",
+      "price": 200,
+      "imgUrl": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "SportFlex",
+      "description": "A durable and comfortable sports watch with a flexible silicone band and easy-to-read digital display.",
+      "display_type": "Digital",
+      "water_resistance_level": "100 meters",
+      "price": 100,
+      "imgUrl": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ExplorerPro",
+      "description": "An adventure-ready watch with a compass, thermometer, and altimeter built-in, as well as a rugged rubber strap for added durability.",
+      "display_type": "Analog",
+      "water_resistance_level": "200 meters",
+      "price": 300,
+      "imgUrl": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ClassicElegance",
+      "description": "A sophisticated dress watch with a leather strap and understated design, perfect for formal occasions.",
+      "display_type": "Analog",
+      "water_resistance_level": "30 meters",
+      "price": 150,
+      "imgUrl": "4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "FitTrack",
+      "description": "A smartwatch with fitness tracking capabilities, including heart rate monitoring, step counting, and calorie tracking.",
+      "display_type": "Digital",
+      "water_resistance_level": "50 meters",
+      "price": 250,
+      "imgUrl": "5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "UltraSlim",
+      "description": "A sleek and minimalist watch with a thin case and mesh metal strap, designed for a modern and refined look.",
+      "display_type": "Analog",
+      "water_resistance_level": "30 meters",
+      "price": 175,
+      "imgUrl": "6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "DiveMaster",
+      "description": "A high-performance dive watch with a unidirectional bezel, luminous markers, and durable rubber strap, ideal for underwater adventures.",
+      "display_type": "Analog",
+      "water_resistance_level": "500 meters",
+      "price": 400,
+      "imgUrl": "7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "AviatorPro",
+      "description": "A pilot's watch with a large, easy-to-read dial and stopwatch function, as well as a leather strap for added comfort.",
+      "display_type": "Analog",
+      "water_resistance_level": "50 meters",
+      "price": 275,
+      "imgUrl": "8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fashionista",
+      "description": "A trendy watch with a colorful leather strap and fashion-forward design, perfect for accessorizing any outfit.",
+      "display_type": "Analog",
+      "water_resistance_level": "30 meters",
+      "price": 125,
+      "imgUrl": "9.jpg"
+    }
+  ]
+}
